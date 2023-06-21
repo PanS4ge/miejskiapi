@@ -1,0 +1,10 @@
+pyproject.toml
+src/MiejskiDefinicja.py
+src/Sprawdzacz.py
+src/Tester.py
+src/__init__.py
+src/main.py
+src/UNKNOWN.egg-info/PKG-INFO
+src/UNKNOWN.egg-info/SOURCES.txt
+src/UNKNOWN.egg-info/dependency_links.txt
+src/UNKNOWN.egg-info/top_level.txt
